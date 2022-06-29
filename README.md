@@ -1,4 +1,4 @@
 - 👋 Hi,eu sou @Mateus1B-coffeeislife
 - 👀 estou interessado em ganhar nota e passar de ano.
 - 💞️ eu estou aprendendo coisas da matéria de pensamento computacional.
-
+- ! [Scrath](https://img.shields.io/badge/Scrath-4D97FF?style=for-the
